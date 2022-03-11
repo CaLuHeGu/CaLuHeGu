@@ -1,4 +1,4 @@
-- 👋 Hola, soy @CaLuHeGu
+- 1 - 👋 Hola, soy @CaLuHeGu
 - 2 - 🌱 Actualmente estoy aprendiendo Programación
 - 4 - 📫 Cómo contactarme chcarlos@hotmail.com
 
